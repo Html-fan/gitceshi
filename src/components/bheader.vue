@@ -21,6 +21,6 @@
     background-color: darkgray;
     text-align: center;
     line-height: 50px;
-    font-size: 20px;
+    font-size: 18px;
   }
 </style>
